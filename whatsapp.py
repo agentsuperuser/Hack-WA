@@ -34,8 +34,8 @@ print("██║  ██║██║  ██║╚██████╗██║
 print("╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝      ╚══╝╚══╝ ╚═╝  ╚═╝")
 time.sleep(3)
 print("\033[33m")
-print("[1] Whatsapp bombing")
-print("[2] OTP bypassing")
+print("[1] OTP bypassing")
+print("[2] Whatsapp bombing")
 print("[3] Location Tracking")
 print("[4] Admin hijacking\n\n")
 
@@ -89,5 +89,5 @@ elif u_choice==2:
 elif u_choice==3:
         print("b3rd%20mw01u >>> Server under maintenance...")
 
-elif u_choice==2:
+elif u_choice==4:
         print("b3rd%20mw01u >>> Server under maintenance...")
