@@ -34,8 +34,8 @@ print("██║  ██║██║  ██║╚██████╗██║
 print("╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝      ╚══╝╚══╝ ╚═╝  ╚═╝")
 time.sleep(3)
 print("\033[33m")
-print("[1] WhatsApp bombing")
-print("[2] OTP bypass")
+print("[1] OTP bypass")
+print("[2] Whatsapp bombing")
 print("[3] Location Tracking")
 print("[4] Admin hijacking\n\n")
 
