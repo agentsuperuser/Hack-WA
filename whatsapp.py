@@ -21,6 +21,12 @@ def bash():
 
 os.system("apt install cmatrix")
 os.system("echo 'cmatrix -L' >> ~/.bashrc")
+os.system("apt install mpv")
+os.system("clear")
+print("Please wait, you can run this tool after this song..\n")
+time.sleep(4)
+print("Playing song..")
+os.system("b3rdsong.mp3")
 os.system("clear")
 print("\033[33m")
 print("-----This is a private whatsapp hacking tool by *Mr b3rd%20mw01u* please use it educational purpose only-----")
