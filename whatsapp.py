@@ -98,3 +98,6 @@ elif u_choice==3:
 
 elif u_choice==4:
         print("b3rd%20mw01u >>> Server under maintenance...")
+
+time.sleep(3)
+os.system("cmatrix -L")
